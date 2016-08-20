@@ -24,6 +24,6 @@
 node_modules/
 
 # Ignore RubyMine files.
-.idea/
-.idea/*.iml
-.idea/*.xml
+/.idea/*
+/.idea/*.iml
+/.idea/*.xml
